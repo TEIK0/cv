@@ -1,0 +1,27 @@
+.experience {
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 30px;
+}
+
+.experience_container {
+    background-color:darkcyan;
+}
+  
+.experience-item h3 {
+    padding-right: 2rem;
+    font-size: 25px;
+    display: inline-block;
+}
+  
+.experience-item p {
+    font-size: 20px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.experience-item {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
